@@ -2,10 +2,13 @@
 
 > Modern data analysis and processing toolkit featuring Python scripts, R utilities, web scraping tools, and intelligent automation solutions.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/olympus-terminal/data-processing)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/olympus-terminal/data-processing?style=social)](https://github.com/olympus-terminal/data-processing/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/olympus-terminal/data-processing)](https://github.com/olympus-terminal/data-processing/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/olympus-terminal/data-processing)](https://github.com/olympus-terminal/data-processing/commits/main)
+[![Tools](https://img.shields.io/badge/tools-11-green.svg)](https://github.com/olympus-terminal/data-processing)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org)
 [![R](https://img.shields.io/badge/R-4.0+-276DC3.svg)](https://www.r-project.org)
-[![Tools](https://img.shields.io/badge/tools-11-green.svg)](.)
 
 ## 📊 Overview
 
